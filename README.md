@@ -1,12 +1,12 @@
 ### Hi there, i am SEUL HA! 💬
 
 ### 📞 CONTACT 📞 
-📧 Email
-kimsha21@naver.com
+##### 📧 Email
+##### kimsha21@naver.com
     
-🌱 Tech Blog
-https://blog.naver.com/kimsha21
-https://seultories.tistory.com
+##### 🌱 Tech Blog
+##### https://blog.naver.com/kimsha21
+##### https://seultories.tistory.com
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeulHa&layout=compact"><br><br>
