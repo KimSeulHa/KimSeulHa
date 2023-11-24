@@ -1,16 +1,12 @@
 ### Hi there, i am SEUL HA! 💬
 
 ### 📞 CONTACT 📞 
-    📧 Email
-    kimsha21@naver.com
+📧 Email
+kimsha21@naver.com
     
-    🌱 Tech Blog
-    https://blog.naver.com/kimsha21
-    https://seultories.tistory.com
-    
-    📷 Instargram 
-    https://instagram.com/xxeulha
-    https://instagram.com/seultories
+🌱 Tech Blog
+https://blog.naver.com/kimsha21
+https://seultories.tistory.com
 
 ### 📚 Tech Stack 📚
 <div>
