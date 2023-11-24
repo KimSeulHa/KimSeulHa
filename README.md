@@ -8,6 +8,11 @@ kimsha21@naver.com
 https://blog.naver.com/kimsha21
 https://seultories.tistory.com
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeulHa&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=KimSeulHa&show_icons=true">
+</div>
+
 ### 📚 Tech Stack 📚
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -30,9 +35,6 @@ https://seultories.tistory.com
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 </div>  
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimSeulHa&layout=compact"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=KimSeulHa&show_icons=true">
-</div>
+
 
 
